@@ -1,0 +1,7 @@
+torch
+torchvision
+Pillow
+pandas
+tqdm
+open-clip-torch
+flask
